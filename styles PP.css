@@ -1,0 +1,23 @@
+h1{
+
+    color: rgb(143, 11, 219);
+    text-align: center;
+     text-decoration-line: underline;/*Subrayar*/
+    text-decoration-style: dashed;  
+
+    background-image:url(imagenes/img-10.jpg);
+
+
+}
+body{
+    background-image: url(imagenes/img-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cuidadodelapiel{
+    display:flex;
+    justify-content: left;
+
+    
+}
